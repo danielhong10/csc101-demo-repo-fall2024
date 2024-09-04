@@ -3,14 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- I chose computer science because I enjoy the interworkings of coding and the computer. Seeing how every little part matters is really cool and the preciseness of it all.
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- I believe having focus, commitment, and attention to detail willo help me succeed and resilience because failure is bound to happen.
 
 
 
@@ -19,7 +19,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- By willing to sacrificing time to this class and being open to failure and learning from it until success is earned.
 
 
 
